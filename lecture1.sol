@@ -36,6 +36,32 @@ pragma solidity ^0.8.10;
 
 
 
+// // stroring values in Contract
+// contract First{
+
+// int public num=18;
+
+// string public greetng="welcome";
+
+// bool public isActive=false;
+
+// address public myAddress=0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
+
+// function getNumber()public view returns(int){
+//     return num;
+//    }
+// }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -172,6 +198,7 @@ pragma solidity ^0.8.10;
 //         score/=number;
 //     }
 // }
+
 
 
 
